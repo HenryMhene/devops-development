@@ -31,3 +31,8 @@ You can also use a shorthand alias for kubectl that also works with completion:
 alias k=kubectl
 complete -F __start_kubectl k
 ```
+
+```
+#Install fluxctl
+brew install fluxctl
+```
